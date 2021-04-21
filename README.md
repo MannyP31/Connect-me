@@ -1,2 +1,2 @@
 # Connect-me
-Neuromorphic UI design for social media icons.
+Neumorphic UI design for social media icons.
